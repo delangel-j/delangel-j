@@ -9,8 +9,7 @@
 - 🏦 I'm Backend Engineering working as developer consultant at AsTecI 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.java**, **.sql**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 👯 We can connect to play some games of Chess ♟
+- 👯 We can connect to play some videogames
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
